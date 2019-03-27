@@ -1,6 +1,6 @@
 # Trabajo final de Programación Concurrente
 
-El trabajo fue originalmente desarrollado usando Eclipse, pero es posible compilar en Linux usando los Makefiles que se proveen.
+El trabajo fue originalmente desarrollado usando Eclipse bajo Windows, pero es posible compilar en Linux usando los Makefiles que se proveen.
 
 ## Descripción
 
